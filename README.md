@@ -2,7 +2,7 @@
 ## <font color=Blue>This is the source code and dataset of the ***SECON 2023*** paper - "mmYodar: Lightweight and Robust Object Detection using mmWave Signals". <br></font>
 ![image](https://github.com/ChangYuance/mmYodar/blob/main/cover/cover.jpg)
 ****
-## Overall, the mmYodar project includes four parts: ***mmWave Signal Pre-processing Process***, ***Real-time System***, ***Camera and mmWave multimodal Dataset*** and ***Object Detection Network***.
+## Overall, the mmYodar project includes four parts: <br> 1.***mmWave Signal Pre-processing Process*** <br> 2.***Real-time System*** <br> 3.***Camera and mmWave multimodal Dataset*** <br> 4.***Object Detection Network***.
 ****
 ### The mmWave signal pre-processing process of mmYodar is demonstrated in *Radar_points_image* folder.<br>
 ### Please use the main fuction GetFiles.m to get radar points images which are the input of detection network. More details can be found in code.<br><br>
