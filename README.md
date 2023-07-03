@@ -11,7 +11,7 @@
 ****
 ### The real-time system of mmYodar is demonstrated in *OnlineSystem* folder.<br>
 ### Please run the test.py for visual results. After initialization, you need to press the button *DCA1000ARM* and *Trigger frame* orderly. <br>
-### Noted: Online system require installing mmWave studio software [Ti](https://www.ti.com/tool/MMWAVE-STUDIO). Of course, you do need to have a mmwave radar.
+### Noted: Online system require installing  [mmWave studio software](https://www.ti.com/tool/MMWAVE-STUDIO). Of course, you do need to have a mmwave radar.
 ****
 ## Acknowledgements
 * ### The code of reading DCA1000 data in online system is partly borrowed from [mmmesh](https://github.com/HavocFiXer/mmMesh).
