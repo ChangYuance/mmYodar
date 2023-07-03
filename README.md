@@ -14,5 +14,5 @@
 ### Noted: Online system require installing mmWave studio software [Ti](link:https://www.ti.com/tool/MMWAVE-STUDIO). Of course, you do need to have a mmwave radar.
 ****
 ## Acknowledgements
-* ### The reading data from DCA1000 in online system is partly borrowed from [](link:https://github.com/HavocFiXer/mmMesh).
+* ### The code of reading DCA1000 data in online system is partly borrowed from [mmmesh](https://github.com/HavocFiXer/mmMesh).
 ****
