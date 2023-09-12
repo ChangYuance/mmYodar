@@ -14,6 +14,7 @@
 ### Noted: Online system require installing  [mmWave studio software](https://www.ti.com/tool/MMWAVE-STUDIO). Of course, you should have a mmwave radar.
 ****
 ### 3.The part of Camera and mmWave multimodal Dataset is demonstrated in *Dataset* folder. For privacy and security, please contact for a complete dataset greenthunder@stu.xjtu.edu.cn.<br>
+### Therefore, we provide tested data. <br> https://pan.baidu.com/s/13iCNR4U6T8nXk-dXl_n5uA?pwd=l08i Extracted code：l08i <br>
 ### The dataset provides 16 scenario tests.
 ****
 ### 4.Object Detection Network.<br>
@@ -23,5 +24,5 @@
 ****
 ## Acknowledgements
 ### The code for reading DCA1000 data in online system is partly borrowed from [mmmesh](https://github.com/HavocFiXer/mmMesh).
-### our code borrow from https://github.com/bubbliiiing/yolo3-pytorch
+### The code is partly borrowed from https://github.com/bubbliiiing/yolo3-pytorch
 ****
