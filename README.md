@@ -14,8 +14,7 @@
 ### Noted: Online system require installing  [mmWave studio software](https://www.ti.com/tool/MMWAVE-STUDIO). Of course, you should have a mmwave radar.
 ****
 ### 3.The part of Camera and mmWave multimodal Dataset is demonstrated in *Dataset* folder. For privacy and security, please contact for a complete dataset greenthunder@stu.xjtu.edu.cn.<br>
-### Please `run test.py` for visual results. After initialization, you need to press the button *DCA1000ARM* and *Trigger frame* orderly. <br>
-### Therefore, we provide picture test sets of different scenes. Baidu Netdisk: <br>https://pan.baidu.com/s/13XubeLqVNEAWVo74W8ct9A?pwd=ZXCV Extracted code：ZXCV
+### The dataset provides 16 scenario tests.
 ****
 ### 4.Object Detection Network.<br>
 ### Please `run predict.py` for visual results. You need to put yolo, utils, mini_net in the same directory.After that, download the trained weights. <br>
