@@ -15,12 +15,14 @@
 ****
 ### 3.The part of Camera and mmWave multimodal Dataset is demonstrated in *Dataset* folder. For privacy and security, please contact for a complete dataset greenthunder@stu.xjtu.edu.cn.<br>
 ### Please `run test.py` for visual results. After initialization, you need to press the button *DCA1000ARM* and *Trigger frame* orderly. <br>
-### Noted: Online system require installing  [mmWave studio software](https://www.ti.com/tool/MMWAVE-STUDIO). Of course, you should have a mmwave radar.
+### Therefore, we provide picture test sets of different scenes. Baidu Netdisk: <br>https://pan.baidu.com/s/13XubeLqVNEAWVo74W8ct9A?pwd=ZXCV Extracted code：ZXCV
 ****
-### 4.The part of Camera and mmWave multimodal Dataset is demonstrated in *Dataset* folder. For privacy and security, please contact for a complete dataset greenthunder@stu.xjtu.edu.cn.<br>
-### Please `run test.py` for visual results. After initialization, you need to press the button *DCA1000ARM* and *Trigger frame* orderly. <br>
-### Noted: Online system require installing  [mmWave studio software](https://www.ti.com/tool/MMWAVE-STUDIO). Of course, you should have a mmwave radar.
+### 4.Object Detection Network.<br>
+### Please `run predict.py` for visual results. You need to put yolo, utils, mini_net in the same directory.After that, download the trained weights. <br>
+### Therefore, we provide trained weights. <br>https://www.aliyundrive.com/s/btVjpoXBVZv Extracted code：nr35 <br>
+### If you need to see the results of different test sets, please modify lines 26 and 27 in the predict.py, the data set is given in the third part.
 ****
 ## Acknowledgements
 ### The code for reading DCA1000 data in online system is partly borrowed from [mmmesh](https://github.com/HavocFiXer/mmMesh).
+### our code borrow from https://github.com/bubbliiiing/yolo3-pytorch
 ****
